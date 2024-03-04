@@ -1,0 +1,14 @@
+/home/knoldus/Downloads/DotNetAssessment2-master/1.PascalCaseConverter/bin/Debug/net8.0/1.PascalCaseConverter
+/home/knoldus/Downloads/DotNetAssessment2-master/1.PascalCaseConverter/bin/Debug/net8.0/1.PascalCaseConverter.deps.json
+/home/knoldus/Downloads/DotNetAssessment2-master/1.PascalCaseConverter/bin/Debug/net8.0/1.PascalCaseConverter.runtimeconfig.json
+/home/knoldus/Downloads/DotNetAssessment2-master/1.PascalCaseConverter/bin/Debug/net8.0/1.PascalCaseConverter.dll
+/home/knoldus/Downloads/DotNetAssessment2-master/1.PascalCaseConverter/bin/Debug/net8.0/1.PascalCaseConverter.pdb
+/home/knoldus/Downloads/DotNetAssessment2-master/1.PascalCaseConverter/obj/Debug/net8.0/1.PascalCaseConverter.GeneratedMSBuildEditorConfig.editorconfig
+/home/knoldus/Downloads/DotNetAssessment2-master/1.PascalCaseConverter/obj/Debug/net8.0/1.PascalCaseConverter.AssemblyInfoInputs.cache
+/home/knoldus/Downloads/DotNetAssessment2-master/1.PascalCaseConverter/obj/Debug/net8.0/1.PascalCaseConverter.AssemblyInfo.cs
+/home/knoldus/Downloads/DotNetAssessment2-master/1.PascalCaseConverter/obj/Debug/net8.0/1.PascalCaseConverter.csproj.CoreCompileInputs.cache
+/home/knoldus/Downloads/DotNetAssessment2-master/1.PascalCaseConverter/obj/Debug/net8.0/1.PascalCaseConverter.dll
+/home/knoldus/Downloads/DotNetAssessment2-master/1.PascalCaseConverter/obj/Debug/net8.0/refint/1.PascalCaseConverter.dll
+/home/knoldus/Downloads/DotNetAssessment2-master/1.PascalCaseConverter/obj/Debug/net8.0/1.PascalCaseConverter.pdb
+/home/knoldus/Downloads/DotNetAssessment2-master/1.PascalCaseConverter/obj/Debug/net8.0/1.PascalCaseConverter.genruntimeconfig.cache
+/home/knoldus/Downloads/DotNetAssessment2-master/1.PascalCaseConverter/obj/Debug/net8.0/ref/1.PascalCaseConverter.dll

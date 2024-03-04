@@ -1,0 +1,14 @@
+/home/knoldus/Downloads/DotNetAssessment2-master/4.StackOverflowPost/bin/Debug/net8.0/4.StackOverflowPost
+/home/knoldus/Downloads/DotNetAssessment2-master/4.StackOverflowPost/bin/Debug/net8.0/4.StackOverflowPost.deps.json
+/home/knoldus/Downloads/DotNetAssessment2-master/4.StackOverflowPost/bin/Debug/net8.0/4.StackOverflowPost.runtimeconfig.json
+/home/knoldus/Downloads/DotNetAssessment2-master/4.StackOverflowPost/bin/Debug/net8.0/4.StackOverflowPost.dll
+/home/knoldus/Downloads/DotNetAssessment2-master/4.StackOverflowPost/bin/Debug/net8.0/4.StackOverflowPost.pdb
+/home/knoldus/Downloads/DotNetAssessment2-master/4.StackOverflowPost/obj/Debug/net8.0/4.StackOverflowPost.GeneratedMSBuildEditorConfig.editorconfig
+/home/knoldus/Downloads/DotNetAssessment2-master/4.StackOverflowPost/obj/Debug/net8.0/4.StackOverflowPost.AssemblyInfoInputs.cache
+/home/knoldus/Downloads/DotNetAssessment2-master/4.StackOverflowPost/obj/Debug/net8.0/4.StackOverflowPost.AssemblyInfo.cs
+/home/knoldus/Downloads/DotNetAssessment2-master/4.StackOverflowPost/obj/Debug/net8.0/4.StackOverflowPost.csproj.CoreCompileInputs.cache
+/home/knoldus/Downloads/DotNetAssessment2-master/4.StackOverflowPost/obj/Debug/net8.0/4.StackOverflowPost.dll
+/home/knoldus/Downloads/DotNetAssessment2-master/4.StackOverflowPost/obj/Debug/net8.0/refint/4.StackOverflowPost.dll
+/home/knoldus/Downloads/DotNetAssessment2-master/4.StackOverflowPost/obj/Debug/net8.0/4.StackOverflowPost.pdb
+/home/knoldus/Downloads/DotNetAssessment2-master/4.StackOverflowPost/obj/Debug/net8.0/4.StackOverflowPost.genruntimeconfig.cache
+/home/knoldus/Downloads/DotNetAssessment2-master/4.StackOverflowPost/obj/Debug/net8.0/ref/4.StackOverflowPost.dll

@@ -1,0 +1,14 @@
+/home/knoldus/Downloads/DotNetAssessment2-master/2.DisplayPostLikes/bin/Debug/net8.0/2.DisplayPostLikes
+/home/knoldus/Downloads/DotNetAssessment2-master/2.DisplayPostLikes/bin/Debug/net8.0/2.DisplayPostLikes.deps.json
+/home/knoldus/Downloads/DotNetAssessment2-master/2.DisplayPostLikes/bin/Debug/net8.0/2.DisplayPostLikes.runtimeconfig.json
+/home/knoldus/Downloads/DotNetAssessment2-master/2.DisplayPostLikes/bin/Debug/net8.0/2.DisplayPostLikes.dll
+/home/knoldus/Downloads/DotNetAssessment2-master/2.DisplayPostLikes/bin/Debug/net8.0/2.DisplayPostLikes.pdb
+/home/knoldus/Downloads/DotNetAssessment2-master/2.DisplayPostLikes/obj/Debug/net8.0/2.DisplayPostLikes.GeneratedMSBuildEditorConfig.editorconfig
+/home/knoldus/Downloads/DotNetAssessment2-master/2.DisplayPostLikes/obj/Debug/net8.0/2.DisplayPostLikes.AssemblyInfoInputs.cache
+/home/knoldus/Downloads/DotNetAssessment2-master/2.DisplayPostLikes/obj/Debug/net8.0/2.DisplayPostLikes.AssemblyInfo.cs
+/home/knoldus/Downloads/DotNetAssessment2-master/2.DisplayPostLikes/obj/Debug/net8.0/2.DisplayPostLikes.csproj.CoreCompileInputs.cache
+/home/knoldus/Downloads/DotNetAssessment2-master/2.DisplayPostLikes/obj/Debug/net8.0/2.DisplayPostLikes.dll
+/home/knoldus/Downloads/DotNetAssessment2-master/2.DisplayPostLikes/obj/Debug/net8.0/refint/2.DisplayPostLikes.dll
+/home/knoldus/Downloads/DotNetAssessment2-master/2.DisplayPostLikes/obj/Debug/net8.0/2.DisplayPostLikes.pdb
+/home/knoldus/Downloads/DotNetAssessment2-master/2.DisplayPostLikes/obj/Debug/net8.0/2.DisplayPostLikes.genruntimeconfig.cache
+/home/knoldus/Downloads/DotNetAssessment2-master/2.DisplayPostLikes/obj/Debug/net8.0/ref/2.DisplayPostLikes.dll
